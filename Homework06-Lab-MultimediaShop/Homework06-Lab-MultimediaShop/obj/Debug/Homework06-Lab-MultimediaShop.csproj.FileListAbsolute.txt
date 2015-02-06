@@ -1,0 +1,6 @@
+C:\Projects VS\Homework06-Lab-MultimediaShop\Homework06-Lab-MultimediaShop\bin\Debug\Homework06-Lab-MultimediaShop.exe.config
+C:\Projects VS\Homework06-Lab-MultimediaShop\Homework06-Lab-MultimediaShop\bin\Debug\Homework06-Lab-MultimediaShop.exe
+C:\Projects VS\Homework06-Lab-MultimediaShop\Homework06-Lab-MultimediaShop\bin\Debug\Homework06-Lab-MultimediaShop.pdb
+C:\Projects VS\Homework06-Lab-MultimediaShop\Homework06-Lab-MultimediaShop\obj\Debug\Homework06-Lab-MultimediaShop.csprojResolveAssemblyReference.cache
+C:\Projects VS\Homework06-Lab-MultimediaShop\Homework06-Lab-MultimediaShop\obj\Debug\Homework06-Lab-MultimediaShop.exe
+C:\Projects VS\Homework06-Lab-MultimediaShop\Homework06-Lab-MultimediaShop\obj\Debug\Homework06-Lab-MultimediaShop.pdb

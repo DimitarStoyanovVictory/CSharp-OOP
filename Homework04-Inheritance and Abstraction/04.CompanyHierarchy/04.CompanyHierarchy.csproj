@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2C52EF51-19D2-4A1E-9B53-7ACB4F919048}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>_04.CompanyHierarchy</RootNamespace>
+    <AssemblyName>04.CompanyHierarchy</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CompanyHierarchyExample.cs" />
+    <Compile Include="CompanyHierarchy\Customer.cs" />
+    <Compile Include="CompanyHierarchy\Departments.cs" />
+    <Compile Include="CompanyHierarchy\Developer.cs" />
+    <Compile Include="CompanyHierarchy\Employee.cs" />
+    <Compile Include="CompanyHierarchy\ICustomer.cs" />
+    <Compile Include="CompanyHierarchy\IDeveloper.cs" />
+    <Compile Include="CompanyHierarchy\IEmployee.cs" />
+    <Compile Include="CompanyHierarchy\IPerson.cs" />
+    <Compile Include="CompanyHierarchy\IManager.cs" />
+    <Compile Include="CompanyHierarchy\IRegularEmployee.cs" />
+    <Compile Include="CompanyHierarchy\ISalesEmployee.cs" />
+    <Compile Include="CompanyHierarchy\Manager.cs" />
+    <Compile Include="CompanyHierarchy\Person.cs" />
+    <Compile Include="CompanyHierarchy\Project.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="CompanyHierarchy\RegularEmployee.cs" />
+    <Compile Include="CompanyHierarchy\Sale.cs" />
+    <Compile Include="CompanyHierarchy\SalesEmployee.cs" />
+    <Compile Include="CompanyHierarchy\States.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

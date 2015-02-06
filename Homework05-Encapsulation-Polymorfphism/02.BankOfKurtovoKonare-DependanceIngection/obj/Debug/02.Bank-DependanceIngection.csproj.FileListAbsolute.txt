@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2013\Projects\Homework05-Encapsulation-Polymorfphism\02.BankOfKurtovoKonare-DependanceIngection\obj\Debug\02.Bank-DependanceIngection.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2013\Projects\Homework05-Encapsulation-Polymorfphism\02.BankOfKurtovoKonare-DependanceIngection\bin\Debug\02.Bank-DependanceIngection.exe.config
+C:\Users\User\documents\visual studio 2013\Projects\Homework05-Encapsulation-Polymorfphism\02.BankOfKurtovoKonare-DependanceIngection\bin\Debug\02.Bank-DependanceIngection.exe
+C:\Users\User\documents\visual studio 2013\Projects\Homework05-Encapsulation-Polymorfphism\02.BankOfKurtovoKonare-DependanceIngection\bin\Debug\02.Bank-DependanceIngection.pdb
+C:\Users\User\documents\visual studio 2013\Projects\Homework05-Encapsulation-Polymorfphism\02.BankOfKurtovoKonare-DependanceIngection\obj\Debug\02.Bank-DependanceIngection.exe
+C:\Users\User\documents\visual studio 2013\Projects\Homework05-Encapsulation-Polymorfphism\02.BankOfKurtovoKonare-DependanceIngection\obj\Debug\02.Bank-DependanceIngection.pdb
