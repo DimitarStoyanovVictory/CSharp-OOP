@@ -1,0 +1,3 @@
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example33\bin\Debug\Example33.exe.config
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example33\obj\Debug\Example33.pdb
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example33\obj\Debug\Trait.csprojResolveAssemblyReference.cache

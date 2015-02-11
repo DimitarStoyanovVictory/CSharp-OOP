@@ -1,0 +1,5 @@
+c:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example1\bin\Debug\Example1.dll.config
+c:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example1\bin\Debug\Example1.dll
+c:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example1\bin\Debug\Example1.pdb
+c:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example1\obj\Debug\Example1.dll
+c:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example1\obj\Debug\Example1.pdb

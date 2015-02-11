@@ -1,0 +1,14 @@
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example4.AutoFixer\bin\Debug\Example4.AutoFixer.dll.config
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example4.AutoFixer\bin\Debug\Example4.AutoFixer.dll
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example4.AutoFixer\bin\Debug\Example4.AutoFixer.pdb
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example4.AutoFixer\bin\Debug\Example4.AutoFixerr.dll
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example4.AutoFixer\bin\Debug\Ploeh.AutoFixture.dll
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example4.AutoFixer\bin\Debug\xunit.dll
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example4.AutoFixer\bin\Debug\xunit.extensions.dll
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example4.AutoFixer\bin\Debug\Example4.AutoFixerr.pdb
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example4.AutoFixer\bin\Debug\Ploeh.AutoFixture.xml
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example4.AutoFixer\bin\Debug\xunit.xml
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example4.AutoFixer\bin\Debug\xunit.extensions.xml
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example4.AutoFixer\obj\Debug\Example4.AutoFixer.Test.csprojResolveAssemblyReference.cache
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example4.AutoFixer\obj\Debug\Example4.AutoFixer.dll
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example4.AutoFixer\obj\Debug\Example4.AutoFixer.pdb

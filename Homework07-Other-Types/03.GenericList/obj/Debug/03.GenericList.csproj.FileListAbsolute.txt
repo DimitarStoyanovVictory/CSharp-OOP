@@ -1,0 +1,7 @@
+C:\VS Projects\Homework07-Other-Types!\03.GenericList\bin\Debug\03.GenericList.exe.config
+C:\VS Projects\Homework07-Other-Types\03.GenericList\bin\Debug\03.GenericList.exe.config
+C:\VS Projects\Homework07-Other-Types\03.GenericList\obj\Debug\03.GenericList.csprojResolveAssemblyReference.cache
+C:\VS Projects\Homework07-Other-Types\03.GenericList\bin\Debug\03.GenericList.exe
+C:\VS Projects\Homework07-Other-Types\03.GenericList\bin\Debug\03.GenericList.pdb
+C:\VS Projects\Homework07-Other-Types\03.GenericList\obj\Debug\03.GenericList.exe
+C:\VS Projects\Homework07-Other-Types\03.GenericList\obj\Debug\03.GenericList.pdb

@@ -1,0 +1,1 @@
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example4.AutoFixer\bin\Debug\Example4.AutoFixer.exe.config

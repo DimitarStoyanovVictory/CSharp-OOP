@@ -1,0 +1,4 @@
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example4.AutoFixerr\bin\Debug\Example4.AutoFixerr.dll
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example4.AutoFixerr\bin\Debug\Example4.AutoFixerr.pdb
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example4.AutoFixerr\obj\Debug\Example4.AutoFixerr.dll
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example4.AutoFixerr\obj\Debug\Example4.AutoFixerr.pdb

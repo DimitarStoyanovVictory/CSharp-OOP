@@ -1,0 +1,4 @@
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example5.AutoFixerDataTheories\bin\Debug\Example5.AutoFixerDataTheories.dll
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example5.AutoFixerDataTheories\bin\Debug\Example5.AutoFixerDataTheories.pdb
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example5.AutoFixerDataTheories\obj\Debug\Example5.AutoFixerDataTheories.dll
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example5.AutoFixerDataTheories\obj\Debug\Example5.AutoFixerDataTheories.pdb

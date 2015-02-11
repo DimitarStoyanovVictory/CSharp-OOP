@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\TheBookOfNakov\Task01.2\bin\Debug\Task01.2.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\TheBookOfNakov\Task01.2\obj\Debug\Task01.2.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\TheBookOfNakov\Task01.2\obj\Debug\Task01.2.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\TheBookOfNakov\Task01.2\bin\Debug\Task01.2.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\TheBookOfNakov\Task01.2\bin\Debug\Task01.2.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\TheBookOfNakov\Task01.2\obj\Debug\Task01_2.csprojResolveAssemblyReference.cache

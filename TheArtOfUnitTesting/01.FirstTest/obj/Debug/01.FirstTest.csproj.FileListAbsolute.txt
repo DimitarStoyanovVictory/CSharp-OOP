@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\TheArtOfUnitTesting\01.FirstTest\bin\Debug\01.FirstTest.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\TheArtOfUnitTesting\01.FirstTest\bin\Debug\01.FirstTest.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\TheArtOfUnitTesting\01.FirstTest\bin\Debug\01.FirstTest.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\TheArtOfUnitTesting\01.FirstTest\obj\Debug\01.FirstTest.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\TheArtOfUnitTesting\01.FirstTest\obj\Debug\01.FirstTest.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\TheArtOfUnitTesting\01.FirstTest\bin\Debug\xunit.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\TheArtOfUnitTesting\01.FirstTest\bin\Debug\xunit.xml

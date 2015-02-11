@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\TheArtOfUnitTesting\02.SecondTest!\obj\Debug\02.SecondTest!.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\TheArtOfUnitTesting\02.SecondTest!\bin\Debug\02.SecondTest!.dll.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\TheArtOfUnitTesting\02.SecondTest!\bin\Debug\02.SecondTest!.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\TheArtOfUnitTesting\02.SecondTest!\bin\Debug\02.SecondTest!.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\TheArtOfUnitTesting\02.SecondTest!\bin\Debug\xunit.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\TheArtOfUnitTesting\02.SecondTest!\bin\Debug\xunit.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\TheArtOfUnitTesting\02.SecondTest!\obj\Debug\02.SecondTest!.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\TheArtOfUnitTesting\02.SecondTest!\obj\Debug\02.SecondTest!.pdb

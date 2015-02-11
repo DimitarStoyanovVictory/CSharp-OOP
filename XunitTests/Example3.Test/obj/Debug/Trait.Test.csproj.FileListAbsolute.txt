@@ -1,0 +1,12 @@
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example3.Test\bin\Debug\SampleData.xls
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example3.Test\bin\Debug\Example3.Test.dll
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example3.Test\bin\Debug\Example3.Test.pdb
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example3.Test\bin\Debug\Example33.dll
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example3.Test\bin\Debug\xunit.dll
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example3.Test\bin\Debug\xunit.extensions.dll
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example3.Test\bin\Debug\Example33.pdb
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example3.Test\bin\Debug\xunit.xml
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example3.Test\bin\Debug\xunit.extensions.xml
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example3.Test\obj\Debug\Trait.Test.csprojResolveAssemblyReference.cache
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example3.Test\obj\Debug\Example3.Test.dll
+C:\Users\dimitar.stoyanov\Documents\Visual Studio 2013\Projects\XunitTests\Example3.Test\obj\Debug\Example3.Test.pdb
