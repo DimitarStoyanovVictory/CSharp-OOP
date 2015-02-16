@@ -1,0 +1,6 @@
+C:\VS Projects\Homework09-Functional-Programming\02.CustomLINQExtentionMethods\bin\Debug\02.CustomLINQExtentionMethods.exe.config
+C:\VS Projects\Homework09-Functional-Programming\02.CustomLINQExtentionMethods\bin\Debug\02.CustomLINQExtentionMethods.exe
+C:\VS Projects\Homework09-Functional-Programming\02.CustomLINQExtentionMethods\bin\Debug\02.CustomLINQExtentionMethods.pdb
+C:\VS Projects\Homework09-Functional-Programming\02.CustomLINQExtentionMethods\obj\Debug\02.CustomLINQExtentionMethods.exe
+C:\VS Projects\Homework09-Functional-Programming\02.CustomLINQExtentionMethods\obj\Debug\02.CustomLINQExtentionMethods.pdb
+C:\VS Projects\Homework09-Functional-Programming\02.CustomLINQExtentionMethods\obj\Debug\02.CustomLINQExtentionMethods.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\VS Projects\Homework09-Functional-Programming\01.StringBuilderExtensions\bin\Debug\01.StringBuilderExtensions.exe.config
+C:\VS Projects\Homework09-Functional-Programming\01.StringBuilderExtensions\bin\Debug\01.StringBuilderExtensions.exe
+C:\VS Projects\Homework09-Functional-Programming\01.StringBuilderExtensions\bin\Debug\01.StringBuilderExtensions.pdb
+C:\VS Projects\Homework09-Functional-Programming\01.StringBuilderExtensions\obj\Debug\01.StringBuilderExtensions.csprojResolveAssemblyReference.cache
+C:\VS Projects\Homework09-Functional-Programming\01.StringBuilderExtensions\obj\Debug\01.StringBuilderExtensions.exe
+C:\VS Projects\Homework09-Functional-Programming\01.StringBuilderExtensions\obj\Debug\01.StringBuilderExtensions.pdb

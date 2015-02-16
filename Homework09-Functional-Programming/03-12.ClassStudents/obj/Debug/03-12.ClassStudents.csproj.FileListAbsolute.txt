@@ -1,0 +1,6 @@
+C:\VS Projects\Homework09-Functional-Programming\03-12.ClassStudents\bin\Debug\03-12.ClassStudents.exe.config
+C:\VS Projects\Homework09-Functional-Programming\03-12.ClassStudents\bin\Debug\03-12.ClassStudents.exe
+C:\VS Projects\Homework09-Functional-Programming\03-12.ClassStudents\bin\Debug\03-12.ClassStudents.pdb
+C:\VS Projects\Homework09-Functional-Programming\03-12.ClassStudents\obj\Debug\03-12.ClassStudents.csprojResolveAssemblyReference.cache
+C:\VS Projects\Homework09-Functional-Programming\03-12.ClassStudents\obj\Debug\03-12.ClassStudents.exe
+C:\VS Projects\Homework09-Functional-Programming\03-12.ClassStudents\obj\Debug\03-12.ClassStudents.pdb

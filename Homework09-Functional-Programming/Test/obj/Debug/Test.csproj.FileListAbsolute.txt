@@ -1,0 +1,6 @@
+C:\VS Projects\Homework09-Functional-Programming\Test\bin\Debug\Test.exe.config
+C:\VS Projects\Homework09-Functional-Programming\Test\bin\Debug\Test.exe
+C:\VS Projects\Homework09-Functional-Programming\Test\bin\Debug\Test.pdb
+C:\VS Projects\Homework09-Functional-Programming\Test\obj\Debug\Test.exe
+C:\VS Projects\Homework09-Functional-Programming\Test\obj\Debug\Test.pdb
+C:\VS Projects\Homework09-Functional-Programming\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
