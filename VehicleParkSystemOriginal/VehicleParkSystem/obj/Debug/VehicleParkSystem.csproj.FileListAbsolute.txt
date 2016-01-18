@@ -1,0 +1,9 @@
+C:\Users\dimitar.stoyanov\Downloads\High-Quality-Code-Exam-17-May-2015\Solution\VehicleParkSystem\bin\Debug\VehicleParkSystem.exe.config
+D:\VSProjects\VehicleParkSystemOriginal\VehicleParkSystem\bin\Debug\VehicleParkSystem.exe.config
+D:\VSProjects\VehicleParkSystemOriginal\VehicleParkSystem\bin\Debug\VehicleParkSystem.exe
+D:\VSProjects\VehicleParkSystemOriginal\VehicleParkSystem\bin\Debug\VehicleParkSystem.pdb
+D:\VSProjects\VehicleParkSystemOriginal\VehicleParkSystem\bin\Debug\PowerCollections.dll
+D:\VSProjects\VehicleParkSystemOriginal\VehicleParkSystem\bin\Debug\PowerCollections.xml
+D:\VSProjects\VehicleParkSystemOriginal\VehicleParkSystem\obj\Debug\VehicleParkSystem.csprojResolveAssemblyReference.cache
+D:\VSProjects\VehicleParkSystemOriginal\VehicleParkSystem\obj\Debug\VehicleParkSystem.exe
+D:\VSProjects\VehicleParkSystemOriginal\VehicleParkSystem\obj\Debug\VehicleParkSystem.pdb

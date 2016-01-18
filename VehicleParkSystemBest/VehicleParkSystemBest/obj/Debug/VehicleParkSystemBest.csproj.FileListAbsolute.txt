@@ -1,0 +1,15 @@
+D:\VSProjects\VehicleParkSystemBest\VehicleParkSystemBest\bin\Debug\VehicleParkSystemBest.exe.config
+D:\VSProjects\VehicleParkSystemBest\VehicleParkSystemBest\bin\Debug\VehicleParkSystemBest.exe
+D:\VSProjects\VehicleParkSystemBest\VehicleParkSystemBest\bin\Debug\VehicleParkSystemBest.pdb
+D:\VSProjects\VehicleParkSystemBest\VehicleParkSystemBest\bin\Debug\Ninject.dll
+D:\VSProjects\VehicleParkSystemBest\VehicleParkSystemBest\bin\Debug\PowerCollections.dll
+D:\VSProjects\VehicleParkSystemBest\VehicleParkSystemBest\bin\Debug\Ninject.xml
+D:\VSProjects\VehicleParkSystemBest\VehicleParkSystemBest\bin\Debug\PowerCollections.xml
+D:\VSProjects\VehicleParkSystemBest\VehicleParkSystemBest\obj\Debug\VehicleParkSystemBest.exe
+D:\VSProjects\VehicleParkSystemBest\VehicleParkSystemBest\obj\Debug\VehicleParkSystemBest.pdb
+D:\VSProjects\VehicleParkSystemBest\VehicleParkSystemBest\bin\Debug\Newtonsoft.Json.dll
+D:\VSProjects\VehicleParkSystemBest\VehicleParkSystemBest\bin\Debug\Newtonsoft.Json.xml
+D:\VSProjects\VehicleParkSystemBest\VehicleParkSystemBest\obj\Debug\VehicleParkSystemBest.csprojResolveAssemblyReference.cache
+D:\VSProjects\OOP\VehicleParkSystemBest\VehicleParkSystemBest\bin\Debug\VehicleParkSystemBest.exe.config
+D:\VSProjects\OOP\VehicleParkSystemBest\VehicleParkSystemBest\obj\Debug\VehicleParkSystemBest.exe
+D:\VSProjects\OOP\VehicleParkSystemBest\VehicleParkSystemBest\obj\Debug\VehicleParkSystemBest.pdb
